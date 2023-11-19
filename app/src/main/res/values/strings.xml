@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GitHub Users</string>
+    <string name="img_desc_avatar">The avatar users</string>
+    <string name="user_name">Full Name</string>
+    <string name="user_username">/@username</string>
+
+    <string name="hello_blank_fragment">Blank fragment</string>
+    <string name="search_title">Please Enter a name</string>
+    <string name="username">\@username</string>
+    <string name="location">City, Country</string>
+    <string name="description_icon_for_location">Icon indicating location</string>
+    <string name="description">This represents the description</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Followings</string>
+    <string name="html_url">https://github.com/url</string>
+
+    <string name="tab_followings">Followings</string>
+    <string name="tab_followers">Followers</string>
+    <string name="number1">256</string>
+    <string name="number2">24</string>
+    <string name="number3">323</string>
+    <string name="private_following">This users following is private</string>
+    <string name="private_follower">This users follower is private</string>
+    <string name="no_following">This user has no following</string>
+    <string name="no_follower">This user has no follower</string>
+    <string name="no_user_found">No user matching the search</string>
+</resources>
